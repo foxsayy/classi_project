@@ -1,4 +1,4 @@
-# classi_project
+# walmart_triptype_classification
 
 월마트 고객 데이터를 사용해 손님들을 월마트가 자체적으로 만든 38가지 카테고리로 분류하는 캐글 프로젝트입니다. 
 
